@@ -358,7 +358,7 @@ function DribbleChat() {
                           setNewData((prevData) => ({
                             ...prevData,
                             name: e.target.value,
-                            id: data.length,
+                            id: data.length + 1,
                             username: e.target.value.split(" ")[0],
                           }));
                         }}
