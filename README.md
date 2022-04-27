@@ -20,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-##npm run build-css
+### `npm run build-css`
 Compiles the Tailwind css file with configuration from Tailwind config file into a system-usable css file.
 
 ### `npm test`
