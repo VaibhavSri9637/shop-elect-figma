@@ -4,23 +4,24 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 The project has been built on Node.js@14.15.1 and npm@8.5.3
 
-
 ## Available Scripts
 
 In the project directory, you can run:
 
 ### `npm install`
+
 Installs all the dependencies required in the project
 
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000/chat-show](http://localhost:3000/chat-show) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `npm run build-css`
+
 Compiles the Tailwind css file with configuration from Tailwind config file into a system-usable css file.
 
 ### `npm test`
